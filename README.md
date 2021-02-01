@@ -39,15 +39,15 @@
 Exploratory data analysis for plane crashes between 1908 and 2019 investigating on underlying reasons, location of events and finding trends if any.
 
 ### Hypothesis
-Is there any link between the different time periods and the fatality rate? </br>
+1. Is there any link between the different time periods and the fatality rate? </br>
 
-What has been the overall trend for air travel fatalities by country? </br>
+2. What has been the overall trend for air travel fatalities by country? </br>
 
-What are the most dangerous aircraft operators? </br>
+3. What are the most dangerous aircraft operators? </br>
 
-Which Aircraft types were most represented in accidents? </br>
+4. Which Aircraft types were most represented in accidents? </br>
 
-Which countries had the most accidents? </br>
+5. Which countries had the most accidents? </br>
 
 ### Extraction
 Data was extracted from a Kaggle csv and contained data from 1908 to 2020.
