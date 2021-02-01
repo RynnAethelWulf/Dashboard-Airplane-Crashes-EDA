@@ -3,7 +3,7 @@
  <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Exploratory Data Analysis of Airline crashes using ETL method,data storage using  PostgresSQL and diplaying data in a clean interactive dashboard. </h3>
+<h3 align="center">Exploratory Data Analysis of Airline crashes using ETL method,data storage using  PostgresSQL and displaying data in a clean interactive dashboard. </h3>
 
 <div align="center">
 
@@ -34,7 +34,7 @@
 3. Kelly
 4. Bimal
 
-## 🧐 Objective <a name = "about"></a>
+## :ledger: Objective <a name = "about"></a>
 
 Exploratory data analysis for plane crashes between 1908 and 2019 investigating on underlying reasons, location of events and finding trends if any.
 
