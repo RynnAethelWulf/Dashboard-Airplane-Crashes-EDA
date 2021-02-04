@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">Exploratory Data Analysis of Airline crashes using ETL method,data storage using  PostgresSQL, displaying data in a clean interactive dashboard and
-  deplopment using amazon ec2 cloud service. </h3>
+  deploypment using amazon ec2 cloud service. </h3>
 
 <div align="center">
 
