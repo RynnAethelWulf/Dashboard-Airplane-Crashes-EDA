@@ -3,7 +3,8 @@
  <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Exploratory Data Analysis of Airline crashes using ETL method,data storage using  PostgresSQL and displaying data in a clean interactive dashboard. </h3>
+<h3 align="center">Exploratory Data Analysis of Airline crashes using ETL method,data storage using  PostgresSQL, displaying data in a clean interactive dashboard and
+  deplopment using amazon ec2 cloud service. </h3>
 
 <div align="center">
 
@@ -27,6 +28,7 @@
 - [Getting Started](#getting_started)
 - [Conclusion](#bonus)
 - [Acknowledgments](#acknowledgement)
+- [Deployment](#deployment)
 
 ## 🧐 Team Members <a name = "Team"></a>
 1. Divya
@@ -93,7 +95,6 @@ Notably between 1970-1990</br>
 Live Serach bar to display data analysis between 1908 to 2019
 
 
-
 ### Conclusion <a name = "bonus"></a>
 1. An Increase in the number of fatalities recorded after 1945 observed. This could be the increased no. of flights and high mobility after WW2.
 
@@ -111,6 +112,8 @@ Live Serach bar to display data analysis between 1908 to 2019
 2000 – 2786 fatalities; 57 incidents
 - Avg fatality rate per incident = 48.87%
 2014 - 2248 fatalities
+
+### Deployment <a name = "deployment"></a>
 
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
